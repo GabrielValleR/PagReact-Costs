@@ -15,6 +15,17 @@
       "cost": 0,
       "services": [],
       "id": 2
+    },
+    {
+      "name": "Venda de Relógios",
+      "budget": "750",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
     }
   ],
   "categories": [
