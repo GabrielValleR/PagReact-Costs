@@ -1,8 +1,8 @@
 {
   "projects": [
     {
-      "name": "Gabriel",
-      "budget": "5000",
+      "name": "Evolução Gabriel",
+      "budget": "15000",
       "category": {
         "id": "2",
         "name": "Desenvolvimento"
@@ -10,11 +10,6 @@
       "cost": 0,
       "services": [],
       "id": 1
-    },
-    {
-      "cost": 0,
-      "services": [],
-      "id": 2
     },
     {
       "name": "Venda de Relógios",
